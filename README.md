@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulyana&label=Profile%20views&color=0e75b6&style=flat" alt="dulyana" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dulyana=onedark" alt="dulyana" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dulyana&theme=onedark" alt="dulyana" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/dulyanag" target="blank"><img src="https://img.shields.io/twitter/follow/dulyanag?logo=twitter&style=for-the-badge" alt="dulyanag" /></a> </p>
 
