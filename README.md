@@ -1,4 +1,4 @@
-### <h1 align="center">Hi there 👋, I'm I'm Dulyana</h1>
+### <h1 align="center">Hi there 👋, I'm Dulyana</h1>
 <h3 align="center">I'm a Undergraduate, Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulyana&label=Profile%20views&color=0e75b6&style=flat" alt="dulyana" /> </p>
