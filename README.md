@@ -19,7 +19,6 @@
 
 - ⚡ Fun fact: **I Love to read and listen to music**
 
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
